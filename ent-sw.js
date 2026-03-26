@@ -1,9 +1,9 @@
 ﻿const CACHE = 'ent-research-v3';
 const FILES = [
-  './ENT_FINAL_COMPLETE.html',
-  './ent-manifest.json',
-  './ent-icon-192.png',
-  './ent-icon-512.png',
+  'https://likhithdhruva.github.io/ENT-RESEARCH-0/ENT_FINAL_COMPLETE.html',
+  'https://likhithdhruva.github.io/ENT-RESEARCH-0/ent-manifest.json',
+  'https://likhithdhruva.github.io/ENT-RESEARCH-0/ent-icon-192.png',
+  'https://likhithdhruva.github.io/ENT-RESEARCH-0/ent-icon-512.png',
   'https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js',
   'https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js',
   'https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.min.js',
