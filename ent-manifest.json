@@ -1,0 +1,17 @@
+﻿{
+  "name": "ENT Research Data Collection",
+  "short_name": "ENT Research",
+  "description": "Vitamin D & Allergic Rhinitis Research Data Collection",
+  "start_url": "./ENT_FINAL_COMPLETE.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1e1b4b",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "ent-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "ent-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["medical", "productivity"],
+  "lang": "en"
+}
